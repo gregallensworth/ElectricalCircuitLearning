@@ -2,6 +2,8 @@
 
 This is a light switch to control the top half of a duplex receptable. The bottom half of the receptable is always energized, as is the duplex receptacle further downstream.
 
+The **SwitchReceptaclesOneSwitchedSwitchLoop** circuit is similar to this one, except in a switch loop configuration, where the switch is furthest away from the feed.
+
 Photo 1 shows the preparatory layout: feed (off the right edge) to switch (right), to the half-switched duplex receptable (middle) then onward to the always-on pair of outlets (left).
   * The duplex receptable in the middle (where one half will be switch-controlled) has had its hot connecting tab broken off.
     * Its neutral connecting tab was left intact, so as to provide a single, convenient neutral-return screw without pigtailing.
