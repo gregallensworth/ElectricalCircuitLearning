@@ -1,11 +1,6 @@
-# Switch Controlling a Light, Plus Always-Hot Receptacle
-### Feed-Switch-Receptacle-Light Layout
+# Switch Controlling a Receptacle, Plus Always-Hot Receptacle
 
-A light switch controls a light fixture, but the duplex receptacle on the same circuit is always hot.
-
-Here, the switch comes before the receptacle, and the recptacle box connects onward to the light box.
-
-The **SwitchLightPlusReceptacle** circuit is very similar, except that the receptacle and light fixture switch positions.
+A light switch controls half of a duplex receptacle, but the other half and a downstream duplex receptacle are always hot.
 
 Photo 1 shows the circuit in operation, and gives an overview.
   * The indicated receptacle (left, bottom outlet) is powered when the switch is on the On position.
