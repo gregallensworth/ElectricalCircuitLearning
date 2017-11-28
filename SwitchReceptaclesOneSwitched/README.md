@@ -2,6 +2,10 @@
 
 A light switch controls half of a duplex receptacle, but the other half and a downstream duplex receptacle are always hot.
 
+This one uses the straight-line layout: feed to switch, to receptacles.
+
+The **SwitchReceptaclesOneSwitchedSwitchLoop** is similar in outcome, except that it is in a switch loop configuration.
+
 Photo 1 shows the circuit in operation, and gives an overview.
   * The indicated receptacle (left, bottom outlet) is powered when the switch is on the On position.
   * Not pictured, is that the other 3 outlets are always hot regardless of the switch position.

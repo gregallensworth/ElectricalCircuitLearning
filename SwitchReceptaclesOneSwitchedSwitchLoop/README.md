@@ -1,6 +1,6 @@
 # Switch-Controlled Half-Receptacle in Switch Loop Layout
 
-This is similar to the **SwitchHalfReceptacle** circuit, in which a switch controls one outlet of a duplex receptacle, while other receptacles stay hot regardless of switch position.
+This is similar to the **SwitchReceptaclesOneSwitched** circuit, in which a switch controls one outlet of a duplex receptacle, while other receptacles stay hot regardless of switch position.
 
 However, this one is in a switch loop configuration: the switch is at the far end from the feed. To connect the switch-controlled receptacle to the switch, 3-wire cable must be used at all steps between that box and the switch box. 2-wire cable may be used between the last receptacle box and the switch box.
 
