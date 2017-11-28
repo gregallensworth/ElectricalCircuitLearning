@@ -1,6 +1,6 @@
 # Simple Switch
 
-A simple light switch circuit.
+A simple light switch circuit, with the feed connecting to a switch, and the switch to the light.
 
 Photo 2 shows it simply working, with the light shining with the switch in the On position.
 
