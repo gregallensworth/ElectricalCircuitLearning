@@ -4,13 +4,13 @@ This is just like **SwitchLightPlusReceptacle2** in that a light switch controls
 
 `Feed -> Switch -> Receptacle -> Light`
 
-The **SwitchLightPlusReceptacle2** with the receptacle after the light fixture, requires 3-wire cable all the way, with red "passing through" the light fixture's box to the receptacle. Here, the span from receptacle box to light box can be made with 2-wire cable.
+The **SwitchLightPlusReceptacle2** with the receptacle after the light fixture, requires 3-wire cable all the way, with red "passing through" the light fixture's box to the receptacle. Here, the span from receptacle box to light box can be made with 2-wire cable. And to change things up a bit, this time it's red that is switch-controlled for the light (the other one had red as the always-hot).
 
 Photo 1 shows the circuit in operation, and gives an overview.
   * Not pictured, is that when the switch is in the Off position the light is off but this receptacle is still powered.
 
 Photo 4 shows the light fixture's electrical box.
-  * Black to brass, whie to silver.
+  * Black to brass, white to silver.
 
 Photo 2 shows the switch box.
   * Hot black is pigtailed to both the ongoing black (always hot) and to a switch to the red wire (switch controlled).
